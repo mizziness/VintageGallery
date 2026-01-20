@@ -1,0 +1,50 @@
+[
+  {
+    "op": "addeach",
+    "file": "game:config/tradelists/trader-artisan.json",
+    "path": "/selling/list/-",
+    "value": [
+      { "code": "game:painting-vintagegallery-aurora-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 7, "var": 1 } },
+      { "code": "game:painting-vintagegallery-beach-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 6, "var": 1 } }
+    ]
+  },
+  {
+    "op": "addeach",
+    "file": "game:config/tradelists/villager-wall.json",
+    "path": "/selling/list/-",
+    "value": [
+      { "code": "game:painting-vintagegallery-cattails-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 4, "var": 1 } },
+      { "code": "game:painting-vintagegallery-dunes-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 4, "var": 1 } },
+      { "code": "game:painting-vintagegallery-fish-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 3, "var": 1 } }
+    ]
+  },
+  {
+    "op": "addeach",
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "path": "/selling/list/-",
+    "value": [
+      { "code": "game:painting-vintagegallery-forest-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 8, "var": 2 } },
+      { "code": "game:painting-vintagegallery-fox-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 5, "var": 1 } },
+      { "code": "game:painting-vintagegallery-hills-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 4, "var": 1 } }
+    ]
+  },
+  {
+    "op": "addeach",
+    "file": "game:config/tradelists/trader-furniture.json",
+    "path": "/selling/list/-",
+    "value": [
+      { "code": "game:painting-vintagegallery-lilypads-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 5, "var": 1 } },
+      { "code": "game:painting-vintagegallery-mountain-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 6, "var": 2 } },
+      { "code": "game:painting-vintagegallery-raccoon-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 6, "var": 2 } }
+    ]
+  },
+  {
+    "op": "addeach",
+    "file": "game:config/tradelists/trader-luxuries.json",
+    "path": "/buying/list/-",
+    "value": [
+      { "code": "game:painting-vintagegallery-sunflowers-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 4, "var": 1 } },
+      { "code": "game:painting-vintagegallery-sunset-north", "type": "block", "stacksize": 1, "stock": { "avg": 1, "var": 0 }, "price": { "avg": 4, "var": 1 } }
+    ]
+  }
+]

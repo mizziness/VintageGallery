@@ -1,15 +1,106 @@
 [
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-aurora" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-beach" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-cattails" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-dunes" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-fish" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-forest" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-fox" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-hills" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-lilypads" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-mountain" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-raccoon" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-sunflowers" } },
-  { "op": "addmerge", "file": "game:worldproperties/block/painting.json", "path": "/variants/-", "value": { "code": "vintagegallery-sunset" } }
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-aurora"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-beach"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-cattails"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-dunes"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-fish"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-forest"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-fox"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-hills"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-lilypads"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-mountain"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-raccoon"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-sunflowers"
+    }
+  },
+  {
+    "op": "addmerge",
+    "file": "game:worldproperties/block/painting.json",
+    "path": "/variants/-",
+    "value": {
+      "code": "vintagegallery-sunset"
+    }
+  }
 ]

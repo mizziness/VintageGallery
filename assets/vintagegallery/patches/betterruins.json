@@ -1,0 +1,210 @@
+[
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-aurora-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-beach-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-cattails-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-dunes-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-fish-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-forest-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-fox-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-hills-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-lilypads-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-mountain-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-raccoon-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-sunflowers-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "file": "game:itemtypes/meta/stackrandomizer-betterruins.json",
+    "path": "/attributesByType/*-cursed/stacks/-",
+    "value": {
+      "type": "block",
+      "code": "painting-vintagegallery-sunset-north",
+      "quantity": {
+        "avg": 1,
+        "var": 0
+      },
+      "chance": 6
+    },
+    "condition": { "when": "fileexists", "file": "game:itemtypes/meta/stackrandomizer-betterruins.json" },
+    "side": "Server"
+  }
+]
