@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "vintagegallery",
+  "name": "Vintage Gallery",
+  "authors": [
+    "Evalynn"
+  ],
+  "description": "Adding new art pieces to decorate your world.",
+  "version": "1.0.0"
+}
