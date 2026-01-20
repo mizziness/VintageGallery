@@ -1,6 +1,10 @@
 # Vintage Gallery
 
-Adds a set of hand-made paintings to the vanilla painting block so you can brighten up your builds without adding new blocks or shapes.
+<img src="modicon.png" align="left" width="64px"/> Adds a set of hand-made paintings to the vanilla painting block so you can brighten up your builds without adding new blocks or shapes.
+
+These pixel paintings are unique and created by myself.  They are meant to work well in both vanilla and modded Vintage Story games, and I tried to go for a mix of vibrant colors and familiar subjects to convey that, in the past, the present and future used to be much brighter.  I will be adding continuously to this mod and have in-progress updates to add multiple canvas/art sizes and types.  I also take requests so if you have an idea for a painting you'd like to see in the mod, let me know!
+
+<span style="clear: both;"></span>
 
 ## Content
 - 13 new painting variants: Aurora, Beach, Cattails, Dunes, Fish, Forest, Fox, Hills, Lilypads, Mountain, Raccoon, Sunflowers, Sunset.
